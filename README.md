@@ -1,7 +1,17 @@
-## 🛠️ QA Artifacts and Automation Samples
+ # 👋 Hi, I'm Masaid Zeb
+QA Engineer | Automation | Performance | AI/LLM Testing
 
-Here are some of my sample works, including test cases, bug reports, test plans, and automation scripts. Feel free to explore the links below for a closer look at the kind of QA artifacts I've produced.  
 
+# 🧪 QA Engineering Work & Test Artifacts
+
+Welcome! This repository showcases **my hands-on work in Software Quality Assurance**, including automation scripts, test cases, bug reports, test plans, and exploratory testing charters.  
+
+💡 **Recruiters & Hiring Managers:** Explore this repo to see real examples of my QA skills in action, including **Cypress automation, Katalon frameworks, API & performance testing**, and structured QA documentation.  
+
+🔗 Key highlights:  
+- End-to-end **Automation Scripts** (Cypress & Katalon)  
+- **Test Plans, Charters & RTM** for live projects  
+- **Bug Reports & Test Cases**
 ---
 
 ### 🚀 **Automation Test Scripts (Cypress)**  
