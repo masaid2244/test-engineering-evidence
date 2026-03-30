@@ -25,12 +25,13 @@ These are sample automation scripts I’ve created using **Cypress**, an end-to-
 This section includes a variety of **test cases**, **reported bugs**, and **API testing bugs**. It demonstrates my approach to documenting and tracking defects, as well as my attention to detail in testing across multiple layers of an application.
 
 - [**Test Cases - Omni Channel**](https://docs.google.com/spreadsheets/d/1nzHf4ah30A5_n8_uM7GgE9W6uLekhSrn/edit?usp=sharing&ouid=102142395352249515675&rtpof=true&sd=true) – This Google Sheet includes 200+ test cases for various modules of the Omni Channel Project, covering functional, integration, and API testing.
-
-- [**EPE - Bugs Report**](https://docs.google.com/spreadsheets/d/1M7TrWRjqTo1vMTv06t8ilmGeRWGwW40BU0XBvnEFO0Y/edit?usp=sharing) – This Google Sheet includes bugs reporting for Engineering Practice Examination Portal.
+  
+- [**Khudi Chat (iOS) – Test Cases**](https://docs.google.com/spreadsheets/d/1YpbbXBJwhFsHnPO1q0Pv1jVRNVaHzA9xqImOA78u0Jo/edit?usp=sharing) – This Google Sheet includes 400+ test cases for the Khudi Chat iOS app (similar to WhatsApp), covering messaging, media sharing, calls, notifications, authentication, security, UI/UX, performance, and API testing.
+  
+- [**Bugs Report - EPE**](https://docs.google.com/spreadsheets/d/1M7TrWRjqTo1vMTv06t8ilmGeRWGwW40BU0XBvnEFO0Y/edit?usp=sharing) – This Google Sheet includes bugs reporting for Engineering Practice Examination Portal.
   
 - [**Test Cases, Bugs, and API Testing Bugs Spreadsheet**](https://docs.google.com/spreadsheets/d/1OkybkELEQXFinxx_nlFSTUbT3AB6wHQC/edit?usp=sharing&ouid=102142395352249515675&rtpof=true&sd=true) – This Google Sheet includes a variety of test cases, reported bugs, and API testing bugs.  
 
-- [**Khudi Chat (iOS) – Test Cases**](https://docs.google.com/spreadsheets/d/1YpbbXBJwhFsHnPO1q0Pv1jVRNVaHzA9xqImOA78u0Jo/edit?usp=sharing) – This Google Sheet includes 400+ test cases for the Khudi Chat iOS app (similar to WhatsApp), covering messaging, media sharing, calls, notifications, authentication, security, UI/UX, performance, and API testing.
   
 ---
 
