@@ -30,6 +30,8 @@ This section includes a variety of **test cases**, **reported bugs**, and **API 
   
 - [**Test Cases, Bugs, and API Testing Bugs Spreadsheet**](https://docs.google.com/spreadsheets/d/1OkybkELEQXFinxx_nlFSTUbT3AB6wHQC/edit?usp=sharing&ouid=102142395352249515675&rtpof=true&sd=true) – This Google Sheet includes a variety of test cases, reported bugs, and API testing bugs.  
 
+- [**Khudi Chat (iOS) – Test Cases**](https://docs.google.com/spreadsheets/d/1YpbbXBJwhFsHnPO1q0Pv1jVRNVaHzA9xqImOA78u0Jo/edit?usp=sharing) – This Google Sheet includes 400+ test cases for the Khudi Chat iOS app (similar to WhatsApp), covering messaging, media sharing, calls, notifications, authentication, security, UI/UX, performance, and API testing.
+  
 ---
 
 ### 📋 **Test Plans**  
