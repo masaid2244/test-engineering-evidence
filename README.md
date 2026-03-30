@@ -57,7 +57,8 @@ Test charters define the scope and focus of exploratory testing sessions. Below 
 These include comprehensive QA deliverables for robust quality assurance across software projects.
 
 - [**📋 Requirements Traceability Matrix (RTM) : OMNI Channel**](https://drive.google.com/file/d/1HnilWOds-MXnIWmnany9LI8fE__b5ehi/view?usp=sharing) – This RTM professionally maps 16 derived requirements to 200+ test cases across Omni-Channel modules per ISTQB standards, achieving 98% coverage with execution status and defect tracking.
-- [**🧪 Test Data Sets : HR CV Screening Bot**](https://drive.google.com/file/d/17GRK_D_PSnCeP_GG8Pu-aT7y_YdrwOoG/view?usp=sharing) – This includes key test data I prepared to execute different testing scenarios for the HR CV screening bot, covering multiple data sets designed to validate functionality, accuracy, edge cases, and real-world usage conditions.
+- [**🤖 AI Chatbot Testing Report & LLM Evaluation Framework**](https://docs.google.com/spreadsheets/d/1PI6Ihll41UpUb2uvmaKykq0dTg5hoyOXyWbLqhnmV8Q/edit?usp=sharing) – This project presents a structured evaluation of an AI-powered chatbot using a metrics-driven approach. It includes test cases designed to assess accuracy, relevance, completeness, hallucination, safety, and context retention, along with a 1–5 scoring system to measure response quality and identify improvement areas.
+- 
 
 ---
 
