@@ -26,7 +26,7 @@ This section includes a variety of **test cases**, **reported bugs**, and **API 
 
 - [**Test Cases - Omni Channel**](https://docs.google.com/spreadsheets/d/1nzHf4ah30A5_n8_uM7GgE9W6uLekhSrn/edit?usp=sharing&ouid=102142395352249515675&rtpof=true&sd=true) – This Google Sheet includes 200+ test cases for various modules of the Omni Channel Project, covering functional, integration, and API testing.
   
-- [**Khudi Chat (iOS) – Test Cases**](https://docs.google.com/spreadsheets/d/1YpbbXBJwhFsHnPO1q0Pv1jVRNVaHzA9xqImOA78u0Jo/edit?usp=sharing) – This Google Sheet includes 400+ test cases for the Khudi Chat iOS app (similar to WhatsApp), covering messaging, media sharing, calls, notifications, authentication, security, UI/UX, performance, and API testing.
+- [**Khudi Chat (iOS) – Test Cases**](https://docs.google.com/spreadsheets/d/1WZMkIPihuGuq7FQb--d0Pw1E8JyWd5JAGjpDHpb04z8/edit?usp=sharing) – This Google Sheet includes 400+ test cases for the Khudi Chat iOS app (similar to WhatsApp), covering messaging, media sharing, calls, notifications, authentication, security, UI/UX, performance, and API testing.
   
 - [**Bugs Report - EPE**](https://docs.google.com/spreadsheets/d/1M7TrWRjqTo1vMTv06t8ilmGeRWGwW40BU0XBvnEFO0Y/edit?usp=sharing) – This Google Sheet includes bugs reporting for Engineering Practice Examination Portal.
   
